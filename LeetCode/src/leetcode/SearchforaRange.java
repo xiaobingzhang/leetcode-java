@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 public class SearchforaRange {
 	public static void main(String[] args) {

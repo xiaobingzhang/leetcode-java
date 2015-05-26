@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 public class FirstMissingPositive {
 	public static void main(String[] args) {

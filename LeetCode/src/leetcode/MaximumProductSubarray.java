@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 /*
  * Besides keeping track of the largest product, we also need to keep track of the smallest product. Why? The smallest product, which is the largest in the negative sense could become the maximum when being multiplied by a negative number.

@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 public class RemoveDuplicatesfromSortedListII {
 	public static void main(String[] args) {

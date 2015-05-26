@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 public class FlattenBinaryTreetoLinkedList {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 public class UniqueBinarySearchTrees {
 	public static void main(String[] args) {

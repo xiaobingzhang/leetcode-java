@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 public class ConvertSortedArraytoBinarySearchTree {
 	public static void main(String[] args) {

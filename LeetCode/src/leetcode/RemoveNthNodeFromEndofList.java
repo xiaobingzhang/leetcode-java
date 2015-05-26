@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 public class RemoveNthNodeFromEndofList {
 	public static void main(String[] args) {

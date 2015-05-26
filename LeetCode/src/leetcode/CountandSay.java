@@ -1,4 +1,4 @@
-package leetcode;
+ 
 
 public class CountandSay {
 	public static void main(String[] args) {
